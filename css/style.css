@@ -1700,4 +1700,25 @@ span.glyphicon.glyphicon-hourglass {
   padding: 0 10px;
 }
 }
+/*767*/
+@media (max-width: 767px) {
+  .logo{
+    width: 65%;
+  }
+  .top-nav {
+    float: right;
+    width: 14%;
+    margin-top: -46px;
+  }
+}
+@media (max-width: 674px) {
+  .logo{
+    width: 52%;
+  }
+  .top-nav {
+    float: right;
+    width: 14%;
+    margin-top: -62px;
+  }
+  }
 /*--media quries end here--*/
