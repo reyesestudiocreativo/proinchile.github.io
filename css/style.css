@@ -417,3 +417,10 @@ ul.social-icons li a .fa {
     -webkit-transform: rotate(-45deg); /* Chrome, Safari, Opera */
     transform: rotate(-45deg); /* Standard syntax */
 }
+
+@media screen and (max-width: 825px) {
+    #logo
+    {
+        margin-left: 40px;
+    }
+}
