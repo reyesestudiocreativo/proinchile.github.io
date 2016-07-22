@@ -116,7 +116,8 @@ a.btn-primary {
         color: #e5da42;
     }
     .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
-        color: #e5da42;
+        /*color: #e5da42;*/
+        color: #fff;
         background: transparent;
     }
     .top-nav-collapse {
@@ -202,7 +203,8 @@ ul.subnav li.active-subnav {
 }
 
 ul.subnav li.active-subnav a {
-    color: #e5da42;
+    /*color: #e5da42;*/
+    color:#fff;
 }
 
 ul.subnav li a { padding-left: 30px; }
@@ -214,7 +216,9 @@ ul.subnav li a { padding-left: 30px; }
 .morphext > span {
     display: none;
     padding: 10px;
-    color: #e5da42;
+    /*color: #e5da42;*/
+    color: #fff;
+
 }
 
 .morphext > .animated {
